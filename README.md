@@ -13,8 +13,20 @@ intro to new media
                             
                             h1 {font-family: "oswald", sands-serif;
                             color:blue;
-                            font -size: 50px}
+                            font -size: 50px;
+                            }
                             
+                            a {
+                            color: red
+                            font-family "spirax", cursive;
+                            font-size: 24px;
+                            text-decoration: none;
+                            }
+                            
+                            a:hover{
+                            color: green;
+                            }
+                            </style>
                             
 <body>
 
