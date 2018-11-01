@@ -2,6 +2,7 @@
 <html>           
 <body>
 
+<img src="Hard_fought_victory._3.png" alt="Image missing" width="900">
 <h1><center>Heading number one<br>Random HTML Practice</center></h1>
 <h2 style =font-family:"times new roman">Secondary Heading: Font Change</h2>
 
@@ -15,7 +16,7 @@
   
 
 
-<img src="images/Hard_fought_victory._3.png" alt="Image missing" width="900">
+
 
 <body bgcolor="#95C7FF"    
     
