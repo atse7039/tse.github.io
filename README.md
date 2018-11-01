@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>           
 <body>
 
@@ -6,7 +5,8 @@
 <h1><center>Heading number one<br>Random HTML Practice</center></h1>
 <h2 style =font-family:"times new roman">Secondary Heading: Font Change</h2>
 
-    
+ Click <a href="Digital Magazine Project.pdf/">here</a> for digital magazine project.
+ 
 <p>Paragrpah one break <br> line test</p>
 <p>Paragrpah two <b>bold</b> and <strong>strong</strong> line test</p>
 <p>Paragraph three <i>italic</i> and <em>emphasized</em> line test</p>
