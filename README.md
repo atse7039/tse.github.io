@@ -1,33 +1,7 @@
 # tse.github.io
 intro to new media
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset=utf-8">
-                            <title>Webpage</title>
-                            <style>
-                            
-                            body {bckground-color:black;
-                            color:white;
-                            }
-                            
-                            h1 {font-family: "oswald", sands-serif;
-                            color:blue;
-                            font -size: 50px;
-                            }
-                            
-                            a {
-                            color: red
-                            font-family "spirax", cursive;
-                            font-size: 24px;
-                            text-decoration: none;
-                            }
-                            
-                            a:hover{
-                            color: green;
-                            }
-                            </style>
-                            
+<html>           
 <body>
 
 <h1><center>Heading number one<br>Random HTML Practice</center></h1>
