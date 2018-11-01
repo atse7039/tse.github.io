@@ -5,20 +5,9 @@
 <h1><center>Heading number one<br>Random HTML Practice</center></h1>
 
 
- <p>Click <a href="Digital Magazine Project.pdf/">here</a> for digital magazine project.</p>
- 
-<p>Paragrpah one break <br> line test</p>
-<p>Paragrpah two <b>bold</b> and <strong>strong</strong> line test</p>
-<p>Paragraph three <i>italic</i> and <em>emphasized</em> line test</p>
-<p>Paragraph four <sub>subscript</sub> line test</p>
-<p>Paragraph five <sup>superscript</sup> line test</p>
-<p>Paragrapg six <a href= "https://www.laguardia.edu">link</a> test</p> 
-  
+ <p>Click <a href="https://www.dropbox.com/s/goafit83zmsbzln/Digital%20Magazine%20Project.pdf?dl=0/" target="_blank">here</a> for digital magazine project.</p>
 
-
-
-
-<body bgcolor="#95C7FF"    
+<body bgcolor="#95C7FF">  
     
 </body>
 </html>
