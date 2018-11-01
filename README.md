@@ -3,9 +3,9 @@
 
 <img src="Hard_fought_victory._3.png" alt="Image missing" width="900">
 <h1><center>Heading number one<br>Random HTML Practice</center></h1>
-<h2 style =font-family:"times new roman">Secondary Heading: Font Change</h2>
 
- Click <a href="Digital Magazine Project.pdf/">here</a> for digital magazine project.
+
+ <p>Click <a href="Digital Magazine Project.pdf/">here</a> for digital magazine project.</p>
  
 <p>Paragrpah one break <br> line test</p>
 <p>Paragrpah two <b>bold</b> and <strong>strong</strong> line test</p>
