@@ -1,5 +1,3 @@
-# tse.github.io
-intro to new media
 <!DOCTYPE html>
 <html>           
 <body>
